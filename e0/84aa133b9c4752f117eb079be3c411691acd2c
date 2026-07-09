@@ -1,0 +1,142 @@
+CUBIC_RECALL_INVESTIGATION_PLAN.md
+  s_4e2ff57265f7a5::t_e1cde4e56bf88b 66,105
+  s_4e2ff57265f7a5::t_ca92c93dd26a7d 1-8,10,69-102,107-152,154-159,161-164,166-167
+  s_4e2ff57265f7a5::t_2bea15ef54e479 9,16-65,67-68,103-104,106,153
+  s_4e2ff57265f7a5::t_a604ef0daae4c2 11-15,160,165
+online/etl/config.py
+  s_e1b420c909f651::t_c22384616668c3 111
+  s_e1b420c909f651::t_c30f61c31242fc 108-110
+  s_e1b420c909f651::t_c900f59fb23ca4 112-118
+online/etl/tests/test_gharchive.py
+  s_e1b420c909f651::t_9286664511bbb0 1-98
+online/etl/db/queries.py
+  s_e1b420c909f651::t_0c9da4acff00d2 321
+offline/code_review_benchmark/step0_fork_prs.py
+  85f4b6a39e0990f8 27,145,190-196,202-206,230-232,292-294,327,338
+CUBIC_RECALL_INVESTIGATION_CONTEXT.md
+  s_857c9505d464aa::t_346030c5e0d073 1-323
+  s_e1b420c909f651::t_56fde54e286e60 324-443,520-525
+  s_e1b420c909f651::t_4c759d537c5726 444-447,469-519
+  s_e1b420c909f651::t_cdc122f9c60324 448-463,465-468
+  s_e1b420c909f651::t_ff8588d3c54d25 464
+offline/code_review_benchmark/step5_label_prs.py
+  s_e7c8ad772dad3f::t_7ba691b6667b6a 125,142
+offline/code_review_benchmark/step2_extract_comments.py
+  s_e7c8ad772dad3f::t_7ba691b6667b6a 71,88
+online/etl/pipeline/analyze.py
+  s_e1b420c909f651::t_9e64e1a8b6c01c 465
+  s_e1b420c909f651::t_6610c97a9b44a0 485-496
+  s_e1b420c909f651::t_a8c209d946b1be 449-453
+online/etl/pipeline/volumes.py
+  s_e1b420c909f651::t_bd8d8f1fab9b5a 1,17-19,51-53,137-173
+online/etl/llm/client.py
+  s_e1b420c909f651::t_6e8f993a064cb6 10,75-83,85-87,89-100,102-108
+  s_e1b420c909f651::t_c08ceb6e30069f 88
+  s_e1b420c909f651::t_27b8966c6e629a 6-7,19-71,101,110,126,129-149
+  s_e1b420c909f651::t_89d5648934060d 84
+  s_4e2ff57265f7a5::t_d098b723c58f3a 150
+.gitignore
+  s_e1b420c909f651::t_5e038b7ff78ded 13
+offline/code_review_benchmark/step2_5_dedup_candidates.py
+  s_e7c8ad772dad3f::t_7ba691b6667b6a 87,145
+online/etl/pipeline/label.py
+  s_e1b420c909f651::t_8483f515eccab2 152
+  s_e1b420c909f651::t_dbc1f5c46e4608 167-178
+  s_e1b420c909f651::t_994f8dbc102609 138-142
+online/etl/pipeline/gharchive.py
+  s_e1b420c909f651::t_4afa26d2cd0057 1-232
+online/etl/pipeline/discover.py
+  s_e1b420c909f651::t_476da16cf5e331 13-16,449-576
+  s_e1b420c909f651::t_1c7f189decb0e0 1
+  s_4e2ff57265f7a5::t_15671c99e0fd5e 577
+online/etl/.env.example
+  s_e1b420c909f651::t_5257ffa48d4be3 14,19,21,23
+  s_e1b420c909f651::t_8bb7b10f36e0fd 20,22
+  s_4e2ff57265f7a5::t_ba0edc10ef0b02 24
+online/etl/README.md
+  s_e1b420c909f651::t_96003c54463282 130,133-137,144-156,169-181,188
+  s_e1b420c909f651::t_0db3824aa4d81d 138-143,164-168
+online/etl/main.py
+  s_e1b420c909f651::t_2c295c26e1385f 455-457,715-716
+  s_e1b420c909f651::t_3daf076751389f 161-171,239,246-250,261-265,323-324,344-346,353-368,392-396,398-420,723-728
+  s_e1b420c909f651::t_ee62df0f4e2006 147
+  s_e1b420c909f651::t_4d3194d83cb7cd 540-545
+  s_e1b420c909f651::t_219cd66c7c2ccf 149,241
+  s_e1b420c909f651::t_342ee459afa431 177
+  s_e1b420c909f651::t_f1319ce3ec0078 151
+  s_e1b420c909f651::t_8e3496a40187d2 335-337,369-391
+  s_e1b420c909f651::t_e5343f2a312c20 546-547,549-573,583,638
+  s_e1b420c909f651::t_f8648db8d5a4d4 548
+  s_e1b420c909f651::t_be87e2dc45a83d 701-703
+online/etl/jobs/analyze_job.py
+  s_e1b420c909f651::t_a98126d8d687e3 24
+  s_e1b420c909f651::t_a23be6df5f0993 23,25-49,65
+offline/code_review_benchmark/step3_judge_comments.py
+  s_e7c8ad772dad3f::t_7ba691b6667b6a 95,112
+offline/code_review_benchmark/step4_export_by_tool.py
+  s_e7c8ad772dad3f::t_7ba691b6667b6a 42
+offline/.env.example
+  s_e7c8ad772dad3f::t_7ba691b6667b6a 8
+  85f4b6a39e0990f8 9-16
+offline/run_cubic.py
+  s_e7c8ad772dad3f::t_7ba691b6667b6a 380
+  85f4b6a39e0990f8 1-379,381-528
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e084aa133b9c4752f117eb079be3c411691acd2c",
+  "prompts": {
+    "85f4b6a39e0990f8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ef324bcb-f82a-44da-ad4f-394802473c2f",
+        "model": "claude-4.6-opus-max-thinking"
+      },
+      "human_author": "Gaurav Pooniwala <gaurav.p@cubic.dev>",
+      "total_additions": 638,
+      "total_deletions": 86,
+      "accepted_lines": 557,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_d2fe5eb5b31b38": {
+      "author": "Gaurav Pooniwala <gaurav.p@cubic.dev>"
+    }
+  },
+  "sessions": {
+    "s_4e2ff57265f7a5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f38f5-54f9-7f62-87d0-c4c1d2e77e98",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Gaurav Pooniwala <gaurav.p@cubic.dev>"
+    },
+    "s_857c9505d464aa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef4b4-f0e0-7660-9ea4-e6eba40ea4f7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Gaurav Pooniwala <gaurav.p@cubic.dev>"
+    },
+    "s_e1b420c909f651": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eff7d-47d5-7e51-a683-aba40b635b6c",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Gaurav Pooniwala <gaurav.p@cubic.dev>"
+    },
+    "s_e7c8ad772dad3f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f4135-fb1f-7de1-9091-5f55b726d2b9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Gaurav Pooniwala <gaurav.p@cubic.dev>"
+    }
+  }
+}
