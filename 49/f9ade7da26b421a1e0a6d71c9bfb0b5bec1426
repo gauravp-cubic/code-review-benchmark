@@ -1,0 +1,21 @@
+offline/analysis/score_profiles.py
+  s_39f9043c740593::t_b6d90fd99941e7 22-25,142-143
+offline/tests/test_step3.py
+  s_39f9043c740593::t_cbd87544af5b6c 154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "49f9ade7da26b421a1e0a6d71c9bfb0b5bec1426",
+  "prompts": {},
+  "sessions": {
+    "s_39f9043c740593": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f4247-61c5-7123-b4bd-afbd1101ec18",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Gaurav Pooniwala <gaurav.p@cubic.dev>"
+    }
+  }
+}
