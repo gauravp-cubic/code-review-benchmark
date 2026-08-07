@@ -1,0 +1,21 @@
+online/etl/pipeline/analyze.py
+  s_39f9043c740593::t_7f6b38ad222d19 149-150
+online/etl/tests/test_analyze_formatting.py
+  s_39f9043c740593::t_deaa428549313e 9,12-18,28,31,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "41cd9034a8bf7558940af1c09f7b82fc372af2fc",
+  "prompts": {},
+  "sessions": {
+    "s_39f9043c740593": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f4247-61c5-7123-b4bd-afbd1101ec18",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Gaurav Pooniwala <gaurav.p@cubic.dev>"
+    }
+  }
+}
